@@ -1,7 +1,6 @@
 /* this is a game of Blackjack, where the goal is for the player to place bets
  * to win money by getting a total hand value closer to 21 than the
- * dealer's hand. 
- * CASE STUDY - CST8284 - JESSICA HAUGEN - 041118503 
+ * dealer's hand.
  */
 
  import javax.swing.*;
